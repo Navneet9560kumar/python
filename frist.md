@@ -80,5 +80,3 @@ Python ek **high-level programming language** hai jo **simple aur readable** cod
 - **PVM:** Bytecode ko execute karta hai.
 
 ---
-
-✨ _Yeh notes GitHub pe upload karne ke liye perfectly formatted hain. Agar aur detailing chahiye ho toh bata dena!_ 🚀
